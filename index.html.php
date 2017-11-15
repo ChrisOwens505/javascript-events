@@ -18,7 +18,7 @@
 
 	</head>
 	<body>
-<h1>This is my dope ass JavaScript Example!</h1>
+<h1>This is my dope ass mini JavaScript Event Example!</h1>
 		<h2>Here's some fuckin' cool stuff!</h2>
 		<div>
 			<h2>watch what happens to the color!</h2>
@@ -30,7 +30,10 @@
 			<input type="text" id="field2">
 			<button onclick="myOtherFunction()">Copy Dat Shit</button>
 		</div>
-		<button id="strap" type="button" class="btn btn-danger">Now try clicking this shit!</button>
+		<div id="font-style">
+			<h2>now check this out!</h2>
+			<p class="lead">You can also change the font!</p>
+		</div>
 		<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
